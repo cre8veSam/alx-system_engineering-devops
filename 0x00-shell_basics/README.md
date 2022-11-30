@@ -1,0 +1,2 @@
+Shell basics- 
+1.	PRINT CURRENT DIRECTORY
